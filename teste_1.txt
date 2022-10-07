@@ -1,2 +1,2 @@
 primeira linha :) 
-outra pessoa -> adiciona segunda linha
+outra pessoa ---> adiciona segunda linha
